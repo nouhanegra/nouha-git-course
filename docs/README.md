@@ -9,3 +9,4 @@ Ajoute au stage UNIQUEMENT src/app.txt (pas README)
 Commit : "update app only"
 
 Vérifie git status → README doit apparaître en “modified” non staged
+noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
